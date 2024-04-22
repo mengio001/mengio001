@@ -17,15 +17,15 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#technologistabout-me">About me</a>
+      <a href="#dna-about-me">About me</a>
     </li>
     <li>
       <a href="#earth_africa-languages-i-speak">Languages</a>
     </li>
     <li>
-      <a href="#hammer_and_wrench-technical-skills">Technical Skills</a>
+      <a href="#technologist-technical-skills">Technical Skills</a>
     </li>
-    <li><a href="#telephone_receiver-lets-connect">Contact</a></li>
+    <li><a href="#coffee-lets-connect">Contact</a></li>
   </ol>
 </details>
 
@@ -34,21 +34,21 @@
 - Dutch
 - Turkish
 
-### :hammer_and_wrench: Technical Skills
+### :technologist: Technical Skills
 - Angular
 - Java
 - C#
 - .NET
 - Azure
 
-### :technologist:	About Me
+### :dna: About Me
 I have a proven track record of transforming complex logistics software into user-friendly applications that serve a diverse clientele, from startups to well-established companies. My goal is always to exceed expectations and drive success through innovative web solutions.
 
-### :telephone_receiver: Let's Connect!
-If you have any questions, need advice, or are interested in collaborating, feel free to reach out to me here on GitHub or via [LinkedIn[linkedin-url]. I'm always open to discussing new projects and innovative ideas!
+### :coffee: Let's Connect!
+If you have any questions, need advice, or are interested in collaborating, feel free to reach out to me here on GitHub or via [LinkedIn][linkedInRef]. I'm always open to discussing new projects and innovative ideas!
 
-LinkedIn : [~/in/mengio1990/[linkedin-url]] <br />
-:mailbox: Email : [o.mengi@timelessmedia.nl[[email-url]]]
+LinkedIn : [~/in/mengio1990][linkedInRef]<br />
+Email : [o.mengi@timelessmedia.nl][contactEmailRef]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,9 +56,9 @@ LinkedIn : [~/in/mengio1990/[linkedin-url]] <br />
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/mengio1990
-[email-url]: mailto:info@timelessmedia.nl?subject=Contact
+[linkedInShieldRef]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedInRef]: https://www.linkedin.com/in/mengio1990 "LinkedIn"
+[contactEmailRef]: <mailto:o.mengi@timelessmedia.nl?subject=Contact> "o.mengi@timelessmedia.nl"
 
 <!-- emoji-cheat-sheet -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
