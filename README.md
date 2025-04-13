@@ -29,22 +29,22 @@
   </ol>
 </details>
 
-### :earth_africa: Languages I Speak
+### Languages I Speak
 - English
 - Dutch
 - Turkish
 
-### :technologist: Technical Skills
+### Technical Skills
 - Angular
 - Java
 - C#
 - .NET
 - Azure
 
-### :dna: About Me
+### About Me
 I have a proven track record of transforming complex logistics software into user-friendly applications that serve a diverse clientele, from startups to well-established companies. My goal is always to exceed expectations and drive success through innovative web solutions.
 
-### :coffee: Let's Connect!
+### Let's Connect!
 If you have any questions, need advice, or are interested in collaborating, feel free to reach out to me here on GitHub or via [LinkedIn][linkedInRef]. I'm always open to discussing new projects and innovative ideas!
 
 LinkedIn : [~/in/mengio1990][linkedInRef]<br />
